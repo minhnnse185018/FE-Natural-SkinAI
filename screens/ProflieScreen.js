@@ -1,7 +1,7 @@
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 
-export default function ProfileScreen() {
+export default function ProflieScreen() {
   return (
     <View style={styles.center}>
       <Text style={styles.title}>👤 Hồ Sơ Người Dùng</Text>
